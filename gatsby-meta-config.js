@@ -1,8 +1,8 @@
 module.exports = {
-  title: `Answer.dev`, // Your blog title
-  description: `Relax and Reflect`, // Your blog description
-  author: `Park Answer`,
-  introduction: `Welcome! This is Answer's Dev Blog`,
+  title: `Wakatsuki's Website`, // Your blog title
+  description: `Portfolio and Blog`, // Your blog description
+  author: `Wakatsuki Yuki`,
+  introduction: `Portfolio and blog of a graduate student in Informatics`,
   siteUrl: `http://answer.netlify.app/`, // Your blog site url
   social: [
     //You can find and use icons on the https://fontawesome.com/icons?d=gallery&s=brands

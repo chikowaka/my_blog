@@ -4,6 +4,10 @@ date: 2020-02-02
 layout: about
 ---
 
-## About Me
+## About me
+- is graduate students in Informatics.
+- is interested in information technology, mobility, and MaaS.
+- likes to drive and cook.
 
-Thanks for visiting my blog. I'm Answer😀
+Links
+- [Wantedly](https://www.wantedly.com/id/waka_yuki)

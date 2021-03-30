@@ -5,12 +5,12 @@ import Bio from '../bio'
 
 import './index.scss'
 
-export const Header = ({ title }) => {
+export const Header = () => {
   return (
     <div className="header">
         <Link to="/about" className="title-link">
         <span className="blog-title">
-          {title}
+          
           </span>
         </Link>
       <Bio />
