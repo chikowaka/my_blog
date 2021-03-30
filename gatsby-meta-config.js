@@ -1,23 +1,24 @@
 module.exports = {
-  title: `Wakatsuki's Website`, // Your blog title
+  title: `Chiko's Website`, // Your blog title
   description: `Portfolio and Blog`, // Your blog description
-  author: `Wakatsuki Yuki`,
-  introduction: `Portfolio and blog of a graduate student in Informatics`,
+  author: `Wakachiko`,
+  introduction: `I'm graduate students in Informatics and interested in information technology, mobility, and MaaS.`,
   siteUrl: `http://answer.netlify.app/`, // Your blog site url
   social: [
     //You can find and use icons on the https://fontawesome.com/icons?d=gallery&s=brands
     {
       icon: `github`,
-      url: `https://github.com/passwd10`,
+      url: `https://github.com/chikowaka`,
     },
     {
-      icon: `google`,
-      url: `https://inseo9494@gmail.com`,
+      icon: `user-circle`,
+      url: `https://www.wantedly.com/id/waka_yuki`,
     },
     {
-      icon: `smile`,
-      url: `https://answer.netlify.app/about`
+      icon: `facebook`,
+      url: `https://www.facebook.com/yuuki.wakatsuki.16/`,
     }
+    
   ],
   icon: `content/assets/icon.png`, // Your blog icon
   planTitle: `Future Action Plan`, // Your blog planTitle

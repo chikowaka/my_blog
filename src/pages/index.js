@@ -26,7 +26,7 @@ export default ({ data }) => {
   return (
     <Layout title={title}>
       <Header/>
-      <PlanContainer planTitle={planTitle} showPlan={showPlan} />
+      {/* <PlanContainer planTitle={planTitle} showPlan={showPlan} /> */}
       <Category tags={tags} selectCategory={selectCategory} />
       <ThumbnailContainer posts={posts} category={category} />
     </Layout>
