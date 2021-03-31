@@ -2,7 +2,7 @@ module.exports = {
   title: `Chiko's Website`, // Your blog title
   description: `Portfolio and Blog`, // Your blog description
   author: `Wakachiko`,
-  introduction: `I'm a graduate students in Informatics, interested in information technology, mobility, and MaaS.`,
+  introduction: `I'm a graduate student in Informatics, interested in information technology, mobility, and MaaS.`,
   siteUrl: `http://answer.netlify.app/`, // Your blog site url
   social: [
     //You can find and use icons on the https://fontawesome.com/icons?d=gallery&s=brands
