@@ -29,8 +29,9 @@ export const Bio = () => {
             />
             <div className="description">
               <Link to="/about">
-                <span className="author">{author}</span>
+                <span className="author">About me</span>
               </Link>
+              {/* <p className="intro">{author}</p> */}
               <p className="intro">{introduction}</p>
               {social.map((v, index) => (
                 <a href={v.url} key={index}>
