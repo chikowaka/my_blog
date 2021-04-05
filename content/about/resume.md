@@ -19,6 +19,6 @@ F1は2020年から突然大ハマりし，全試合みました．今年はDAZN�
 このサイトはアウトプットする場，そしてweb技術を実装しながら学ぶ場なので，受賞歴，インターン歴など細かな経歴は[Wantedly](https://www.wantedly.com/id/waka_yuki)を見ていただけると嬉しいです．
 
 ### Links
-- [Wantedly](https://www.wantedly.com/id/waka_yuki){:target="_blank"}
-- [Lab Profile](https://www.ymmt3-lab.org/member/wakatsuki.html){:target="_blank"}
-- [Facebook](https://www.facebook.com/yuuki.wakatsuki.16/){:target="_blank"}
+- [Wantedly](https://www.wantedly.com/id/waka_yuki)
+- [Lab Profile](https://www.ymmt3-lab.org/member/wakatsuki.html)
+- [Facebook](https://www.facebook.com/yuuki.wakatsuki.16/)
