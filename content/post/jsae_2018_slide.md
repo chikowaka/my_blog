@@ -9,7 +9,6 @@ tag: ["post", "学生フォーミュラ", "サークル"]
 懐かしい気持ちになったので昔プレゼン班長やった時のスライドを見返してたら、改めて頑張ったなと思ったので振り返ろうと思います。
 下記が実際に発表した時使ったスライドです。
 
-[![thumbnail](https://image.slidesharecdn.com/jsae2018sum-210503020348/95/jsae-2018-sum-1-638.jpg?cb=1620027660)](https://www.slideshare.net/YukiWakatsuki3/jsae-2018-sum)
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/ClEianYxf6SBdZ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/YukiWakatsuki3/jsae-2018-sum" title="Jsae 2018 sum" target="_blank">Jsae 2018 sum</a> </strong> from <strong><a href="https://www.slideshare.net/YukiWakatsuki3" target="_blank">祐樹 若月</a></strong> </div>
 
